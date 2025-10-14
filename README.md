@@ -1,4 +1,4 @@
-![Business Analytics Banner](https://via.placeholder.com/1000x200?text=Simple+Threads+Business+Analytics)
+![Business Analytics Banner](https://www.google.com/imgres?q=business%20analytics%20poster%20for%20github&imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F301790261%2Fad692e80-4f58-11eb-8bba-067e6f340977&imgrefurl=https%3A%2F%2Fgithub.com%2Fm-soro%2FBusiness-Analytics&docid=dCfNK4nFv6uOYM&tbnid=rCdycilNBvHw6M&vet=12ahUKEwi1yq77laOQAxWnwzgGHfDyKI4QM3oECBYQAA..i&w=497&h=287&hcb=2&ved=2ahUKEwi1yq77laOQAxWnwzgGHfDyKI4QM3oECBYQAA)
 
 
 🧵 Simple Threads – Business Analysis
